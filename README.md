@@ -1,1 +1,1 @@
-![Image Alt Text](ArtisanatPrj/Items.png)
+![Image Alt Text](Items.png)
